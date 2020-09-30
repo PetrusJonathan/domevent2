@@ -10,7 +10,7 @@ const showModal = () => {
     //kita atur styling element modalnya
     modal.style.display = 'flex'
 }
-const closeModal = () => {
+const closemodal = () => {
     let modal = document.getElementById('modalMenu')
     modal.style.display = 'none'
 }
